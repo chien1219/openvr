@@ -1,0 +1,40 @@
+﻿  MyOpenVR.cpp
+c:\users\簡立哲\desktop\openvr\myopenvr\myopenvr\myopenvr.cpp(283): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+c:\users\簡立哲\desktop\openvr\myopenvr\myopenvr\myopenvr.cpp(287): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+c:\users\簡立哲\desktop\openvr\myopenvr\myopenvr\myopenvr.cpp(291): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+c:\users\簡立哲\desktop\openvr\myopenvr\myopenvr\myopenvr.cpp(295): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+c:\users\簡立哲\desktop\openvr\myopenvr\myopenvr\myopenvr.cpp(299): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+c:\users\簡立哲\desktop\openvr\myopenvr\myopenvr\myopenvr.cpp(303): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+c:\users\簡立哲\desktop\openvr\myopenvr\myopenvr\myopenvr.cpp(1592): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+  strtools.cpp
+c:\users\簡立哲\desktop\openvr\myopenvr\shared\strtools.cpp(12): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(579): note: see declaration of 'strnicmp'
+c:\users\簡立哲\desktop\openvr\myopenvr\shared\strtools.cpp(31): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+c:\users\簡立哲\desktop\openvr\myopenvr\shared\strtools.cpp(146): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  pathtools.cpp
+c:\users\簡立哲\desktop\openvr\myopenvr\shared\pathtools.cpp(517): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+c:\users\簡立哲\desktop\openvr\myopenvr\shared\pathtools.cpp(525): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+c:\users\簡立哲\desktop\openvr\myopenvr\shared\pathtools.cpp(752): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(579): note: see declaration of 'strnicmp'
+c:\users\簡立哲\desktop\openvr\myopenvr\shared\pathtools.cpp(753): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(579): note: see declaration of 'strnicmp'
+c:\users\簡立哲\desktop\openvr\myopenvr\shared\pathtools.cpp(754): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(579): note: see declaration of 'strnicmp'
+c:\users\簡立哲\desktop\openvr\myopenvr\shared\pathtools.cpp(772): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(579): note: see declaration of 'strnicmp'
+  lodepng.cpp
+  Matrices.cpp
+  Generating Code...
+  MyOpenVR.vcxproj -> C:\Users\簡立哲\Desktop\openvr\MyOpenVR\MyOpenVR\..\bin\win32\MyOpenVR.exe
+  MyOpenVR.vcxproj -> ..\bin\win32\MyOpenVR.pdb (Full PDB)
